@@ -1,0 +1,82 @@
+version: "2.0"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - bot_challenge
+  - inform
+  - thankyou
+  - out_of_scope
+
+
+entities:
+  - bookingseat
+  - confirmation
+  - faq_respond
+
+responses:
+  utter_greet:
+  - text: "Hii Booking an AC room at an allowed time"
+
+  utter_goodbye:
+  - text: " thank you for Booking . Bye!"
+
+  utter_iamabot:
+  - text: "I am a Book Reservation Bot"
+  
+  utter_ask_confirm_booking:
+  - text: Do you want to confirm the booking?
+ 
+  utter_ask_seatcount:
+  - text: "how many seat you want to book"
+
+  utter_ask_bookingtime:
+  - text: "When would you like to book a reservation? (We are only open from 7pm to 10pm)"
+
+  
+  utter_ask_seatbooked:
+  - text: "You have reserved 2 seats in our AC section for 7:30pm. Thanks!"
+  utter_ask_category:
+  - text: "Which section would you like to book"
+    buttons:
+      - title: "AC"
+      - title: "Non AC"
+       
+  utter_ask_confirm booking:
+  - text: "Booking Confirm ! Are you want to reset"
+  utter_slots_values:
+  - text: "You've submitted the following answers:\n
+            - Bookingtype?: {utter_ask_category}\n
+            - Booking Time: {utter_ask_bookingtime}\n
+            - Seat: {utter_ask_seatcount}\n"
+            
+           
+
+
+
+
+
+slots:
+  confirm_booking:
+    type: unfeaturized
+  seatcount:
+    type: unfeaturized
+  bookingtime:
+    type: unfeaturized
+  seatbooked:
+    type: unfeaturized
+  category:
+    type: unfeaturized
+ 
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: false
+
+forms:
+  - customer_form
