@@ -1,4 +1,5 @@
 ![Assignment_For_Placement](https://user-images.githubusercontent.com/61516051/117483074-e22ad800-af82-11eb-83dc-8b0007ce3c1f.png)
+<br>
 Welcome to the assignment! In this assignment, we will try to build a simple chatbot for a restaurant.
 We will be using the Rasa framework for this assignment. Do not worry if you have no experience in ML or in using Rasa. All that is required for this assignment can be gleaned from the Rasa tutorial or Rasa docs. 
 
