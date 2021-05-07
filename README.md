@@ -7,7 +7,12 @@ Maximum time required: 3 days
 
 We hope that you have fun learning a new framework and building the chatbot!
 
+
+
 # Objective - 
+[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Restaurantchatbot_rasa)](https://github.com/ashish2030/Restaurantchatbot_rasa/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Restaurantchatbot_rasa)](https://github.com/ashish2030/Restaurantchatbot_rasa/archive/master.zip)
+  
 To build a simple chatbot for a restaurant.
 The chatbot should be able to the following basic functionalities
 - Make a Reservation
