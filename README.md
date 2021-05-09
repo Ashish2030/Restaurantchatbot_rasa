@@ -1,3 +1,24 @@
+<h1 align="center">𝐋𝐢𝐦𝐞𝐂𝐡𝐚𝐭 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭</h1>
+<p align="center">:octocat:🌟ʀᴇꜱᴛᴀᴜʀᴀɴᴛ ᴄʜᴀᴛʙᴏᴛ ʙᴀꜱᴇᴅ ᴏɴ ʀᴀꜱᴀ ꜰʀᴀᴍᴇᴡᴏʀᴋ ᴜꜱɪɴɢ ɴᴘʟ ᴀɴᴅ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴀʟɢᴏʀɪᴛʜᴍ 💻 🎯 🚀<p><br>
+<a href="https://github.com/ashish2030/Restaurantchatbot_rasa/fork" target="blank">
+
+<p align="center">
+  <img src="https://img.shields.io/github/forks/ashish2030/Restaurantchatbot_rasa?style=flat-square" alt="Restaurantchatbot_rasaforks"/>
+</a>
+<a href="https://github.com/ashish2030/Restaurantchatbot_rasa/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/ashish2030/Restaurantchatbot_rasa?style=flat-square" alt="Restaurantchatbot_rasa_API"/>
+</a>
+<a href="https://github.com/ashish2030/Github-Rest_API/issues" target="blank">
+<img src="https://img.shields.io/github/issues/ashish2030/Restaurantchatbot_rasa?style=flat-square" alt="Restaurantchatbot_rasa_API"/>
+</a>
+<a href="https://github.com/ashish2030/Github-Rest_API/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/ashish2030/Restaurantchatbot_rasa?style=flat-square" alt="Restaurantchatbot_rasa_API"/>
+</a>
+  </p>
+  
+ [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Restaurantchatbot_rasa)](https://github.com/ashish2030/Restaurantchatbot_rasa/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Restaurantchatbot_rasa)](https://github.com/ashish2030/Restaurantchatbot_rasa/archive/master.zip)
+
 ![Assignment_For_Placement](https://user-images.githubusercontent.com/61516051/117483074-e22ad800-af82-11eb-83dc-8b0007ce3c1f.png)
 <br>
 Welcome to the assignment! In this assignment, we will try to build a simple chatbot for a restaurant.
